@@ -1,0 +1,6 @@
+ng generate components components"nome da pasta onde se vai criar o component"/noticias "nome do component".
+ng g c components/noticias
+
+ng g server services/newsletter
+
+ng server
